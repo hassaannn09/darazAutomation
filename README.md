@@ -152,8 +152,7 @@ After the test completes:
 - **Live HTML dashboard** — auto-opens after test
 - **Error handling** — graceful failure with status tracking
 - **Auto port cleanup** — no "port in use" errors on re-runs
-- **Internship-ready** — professional code structure
-
+  
 </div>
 
 ---
